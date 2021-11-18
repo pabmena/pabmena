@@ -16,7 +16,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Typescript](https://img.shields.io/badge/-Typescript-light-blue?style=flat&logo=typescript&logoColor=5000000)
+![Typescript](https://img.shields.io/badge/-Typescript-lightblue?style=flat&logo=typescript&logoColor=5000000)
 
 ### Portfolio: https://pabmena.github.io
 
