@@ -19,6 +19,7 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-lightblue?style=flat&logo=typescript&logoColor=5000000)
 ![Scrum](https://img.shields.io/badge/-Scrum-orange?style=flat-square&logo=Scrum)
 ![SPSS](https://img.shields.io/badge/-SPSS-fuchsia?style=flat-square&logo=SPSS)
+![Ajax](https://img.shields.io/badge/-Ajax-black?style=flat-square&logo=Ajax)
 
 ### Portfolio: https://pabmena.github.io
 
