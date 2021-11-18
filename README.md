@@ -17,7 +17,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Typescript](https://img.shields.io/badge/-Typescript-lightblue?style=flat&logo=typescript&logoColor=5000000)
-![Scrum](https://img.shields.io/badge/-Scrum-green?style=flat-square&logo=Scrum)
+![Scrum](https://img.shields.io/badge/-Scrum-orange?style=flat-square&logo=Scrum)
 
 ### Portfolio: https://pabmena.github.io
 
