@@ -10,7 +10,8 @@
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/pabmena)](https://github.com/pabmena) 
 [![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/pabmena)](https://github.com/pabmena) 
 [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/pabmena)](https://github.com/pabmena) 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/pabmena)](https://github.com/pabmena) 
+[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/pabmena)](https://github.com/pabmena)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/pabmena)](https://github.com/pabmena) 
 
 ### Portfolio: https://pabmena.github.io
