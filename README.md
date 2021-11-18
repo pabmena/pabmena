@@ -21,6 +21,7 @@
 ![SPSS](https://img.shields.io/badge/-SPSS-fuchsia?style=flat-square&logo=SPSS)
 ![Ajax](https://img.shields.io/badge/-Ajax-black?style=flat-square&logo=Ajax)
 ![ES6](https://img.shields.io/badge/-ES6-yellow?style=flat-square&logo=ES6)
+![less](https://img.shields.io/badge/-less-black?style=flat-square&logo=less)
 
 ### Portfolio: https://pabmena.github.io
 
