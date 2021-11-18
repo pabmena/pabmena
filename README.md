@@ -23,6 +23,7 @@
 ![Ajax](https://img.shields.io/badge/-Ajax-black?style=flat-square&logo=Ajax)
 ![ES6](https://img.shields.io/badge/-ES6-yellow?style=flat-square&logo=ES6)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-lightblue?style=flat-square&logo=ReactNative)
+![Android](https://img.shields.io/badge/-Android-lightgreen?style=flat-square&logo=Android)
 
 ### Portfolio: https://pabmena.github.io
 
