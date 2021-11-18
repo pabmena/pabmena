@@ -19,9 +19,9 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-lightblue?style=flat&logo=typescript&logoColor=5000000)
 ![Scrum](https://img.shields.io/badge/-Scrum-orange?style=flat-square&logo=Scrum)
 ![SPSS](https://img.shields.io/badge/-SPSS-fuchsia?style=flat-square&logo=SPSS)
+![less](https://img.shields.io/badge/-less-blue?style=flat-square&logo=less)
 ![Ajax](https://img.shields.io/badge/-Ajax-black?style=flat-square&logo=Ajax)
 ![ES6](https://img.shields.io/badge/-ES6-yellow?style=flat-square&logo=ES6)
-![less](https://img.shields.io/badge/-less-blue?style=flat-square&logo=less)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-lightblue?style=flat-square&logo=ReactNative)
 
 ### Portfolio: https://pabmena.github.io
