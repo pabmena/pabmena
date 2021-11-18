@@ -24,6 +24,7 @@
 ![ES6](https://img.shields.io/badge/-ES6-yellow?style=flat-square&logo=ES6)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-lightblue?style=flat-square&logo=ReactNative)
 ![Android](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android)
+![IOS](https://img.shields.io/badge/-IOS-black?style=flat-square&logo=IOS)
 
 ### Portfolio: https://pabmena.github.io
 
