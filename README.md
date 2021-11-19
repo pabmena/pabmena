@@ -26,7 +26,8 @@
 ![Android](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android)
 ![IOS](https://img.shields.io/badge/-IOS-black?style=flat-square&logo=IOS)
 
-### Portfolio: https://youtu.be/ta1mdLjmohs
+### Portfolio: 
+https://youtu.be/ta1mdLjmohs
 
 <a href="https://twitter.com/">
   <img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
