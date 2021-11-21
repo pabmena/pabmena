@@ -27,6 +27,7 @@
 ![IOS](https://img.shields.io/badge/-IOS-black?style=flat-square&logo=IOS)
 ![Jamboard](https://img.shields.io/badge/-Jamboard-orange?style=flat-square&logo=Jamboard)
 ![KanBan](https://img.shields.io/badge/-KanBan-red?style=flat-square&logo=KanBan)
+![Trello](https://img.shields.io/badge/-Trello-blue?style=flat-square&logo=Trello)
 
 ### Portfolio: https://www.youtube.com/watch?v=wEUNxobvtII
 
