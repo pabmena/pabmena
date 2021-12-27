@@ -30,7 +30,7 @@
 ![Trello](https://img.shields.io/badge/-Trello-blue?style=flat-square&logo=Trello)
 
 ### Portfolio: https://www.youtube.com/watch?v=wEUNxobvtII
-###            https://youtu.be/Z3fCAsXAyDQ
+### Project:   https://youtu.be/Z3fCAsXAyDQ
 
 <a href="https://twitter.com/">
   <img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
