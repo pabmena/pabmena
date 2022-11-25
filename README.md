@@ -28,7 +28,7 @@
 ![Jamboard](https://img.shields.io/badge/-Jamboard-orange?style=flat-square&logo=Jamboard)
 ![KanBan](https://img.shields.io/badge/-KanBan-red?style=flat-square&logo=KanBan)
 ![Trello](https://img.shields.io/badge/-Trello-blue?style=flat-square&logo=Trello)
-![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=Postman)
+![Postman](https://img.shields.io/badge/-Postman-success?style=flat-square&logo=Postman)
 
 ### Portfolio: https://www.youtube.com/watch?v=wEUNxobvtII
 ### Project:   https://youtu.be/Z3fCAsXAyDQ
