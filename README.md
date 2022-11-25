@@ -31,7 +31,9 @@
 ![Postman](https://img.shields.io/badge/-Postman-success?style=flat-square&logo=Postman)
 ![Testcafe](https://img.shields.io/badge/-Testcafe-orange?style=flat-square&logo=Testcafe)
 ![Jira](https://img.shields.io/badge/-Jira-ff69b4?style=flat-square&logo=Jira)
+![Git](https://img.shields.io/badge/-Git-yellow?style=flat-square&logo=Git)
 ![Cypress](https://img.shields.io/badge/-Cypress-blueviolet?style=flat-square&logo=Cypress)
+![Selenium](https://img.shields.io/badge/-Selenium-green?style=flat-square&logo=Selenium)
 
 ### Portfolio: https://www.youtube.com/watch?v=wEUNxobvtII
 ### Project:   https://youtu.be/Z3fCAsXAyDQ
