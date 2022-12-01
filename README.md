@@ -35,6 +35,7 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-blueviolet?style=flat-square&logo=Cypress)
 ![Selenium](https://img.shields.io/badge/-Selenium-green?style=flat-square&logo=Selenium)
 ![Slack](https://img.shields.io/badge/-Slack-yellow?style=flat-square&logo=Slack)
+![Lucidchart](https://img.shields.io/badge/-Lucidchart-inactive?style=flat-square&logo=Lucidchart)
 
 ### Portfolio: https://www.youtube.com/watch?v=wEUNxobvtII
 ### Project:   https://youtu.be/Z3fCAsXAyDQ
