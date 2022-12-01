@@ -38,6 +38,8 @@
 ![Lucidchart](https://img.shields.io/badge/-Lucidchart-inactive?style=flat-square&logo=Lucidchart)
 ![Miro](https://img.shields.io/badge/-Miro-yellowgreen?style=flat-square&logo=Miro)
 ![Figma](https://img.shields.io/badge/-Figma-blueviolet?style=flat-square&logo=Figma)
+![Notion](https://img.shields.io/badge/-Notion-important?style=flat-square&logo=Notion)
+![ProjectManagement](https://img.shields.io/badge/-ProjectManagement-blue?style=flat-square&logo=ProjectManagement)
 
 ### Portfolio: https://www.youtube.com/watch?v=wEUNxobvtII
 ### Project:   https://youtu.be/Z3fCAsXAyDQ
