@@ -8,6 +8,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/pabmena)](https://github.com/pabmena) 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/pabmena)](https://github.com/pabmena) 
+
 ![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=Redux)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
 [![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/pabmena)](https://github.com/pabmena) 
