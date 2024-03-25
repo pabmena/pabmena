@@ -40,6 +40,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-blueviolet?style=flat-square&logo=Figma)
 ![Notion](https://img.shields.io/badge/-Notion-important?style=flat-square&logo=Notion)
 ![ProjectManagement](https://img.shields.io/badge/-ProjectManagement-blue?style=flat-square&logo=ProjectManagement)
+![Gherkin](https://img.shields.io/badge/-Gherkin-important?style=flat-square&logo=Gherkin)
 
 ### Portfolio: https://www.youtube.com/watch?v=wEUNxobvtII
 ### Project:   https://youtu.be/Z3fCAsXAyDQ
