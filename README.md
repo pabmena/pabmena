@@ -32,8 +32,8 @@
 ![Gherkin](https://img.shields.io/badge/-Gherkin-black?style=flat-square&logo=Gherkin)
 ![Behave](https://img.shields.io/badge/-Behave-green?style=flat-square&logo=Behave)
 ![Python](https://img.shields.io/badge/-Python-lightblue?style=flat-square&logo=Python)
-
 ![GoogleSheets](https://img.shields.io/badge/-GoogleSheets-black?style=flat-square&logo=GoogleSheets)
+
 ![Numpy](https://img.shields.io/badge/-Numpy-yellow?style=flat-square&logo=Numpy)
 
 
