@@ -13,20 +13,18 @@
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/pabmena)](https://github.com/pabmena) 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Typescript](https://img.shields.io/badge/-Typescript-lightblue?style=flat&logo=typescript&logoColor=5000000)
 ![Scrum](https://img.shields.io/badge/-Scrum-orange?style=flat-square&logo=Scrum)
 ![SPSS](https://img.shields.io/badge/-SPSS-fuchsia?style=flat-square&logo=SPSS)
-
-![Jamboard](https://img.shields.io/badge/-Jamboard-orange?style=flat-square&logo=Jamboard)
 ![KanBan](https://img.shields.io/badge/-KanBan-red?style=flat-square&logo=KanBan)
 ![Trello](https://img.shields.io/badge/-Trello-blue?style=flat-square&logo=Trello)
+
 ![Postman](https://img.shields.io/badge/-Postman-success?style=flat-square&logo=Postman)
 ![Testcafe](https://img.shields.io/badge/-Testcafe-orange?style=flat-square&logo=Testcafe)
 ![Jira](https://img.shields.io/badge/-Jira-ff69b4?style=flat-square&logo=Jira)
 ![Git](https://img.shields.io/badge/-Git-yellow?style=flat-square&logo=Git)
-
 ![Selenium](https://img.shields.io/badge/-Selenium-green?style=flat-square&logo=Selenium)
 ![Slack](https://img.shields.io/badge/-Slack-yellow?style=flat-square&logo=Slack)
+
 ![Lucidchart](https://img.shields.io/badge/-Lucidchart-inactive?style=flat-square&logo=Lucidchart)
 ![Miro](https://img.shields.io/badge/-Miro-yellowgreen?style=flat-square&logo=Miro)
 ![Figma](https://img.shields.io/badge/-Figma-blueviolet?style=flat-square&logo=Figma)
