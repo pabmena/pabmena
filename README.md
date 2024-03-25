@@ -32,6 +32,7 @@
 ![KanBan](https://img.shields.io/badge/-KanBan-red?style=flat-square&logo=KanBan)
 ![Trello](https://img.shields.io/badge/-Trello-blue?style=flat-square&logo=Trello)
 ![Postman](https://img.shields.io/badge/-Postman-success?style=flat-square&logo=Postman)
+
 ![Testcafe](https://img.shields.io/badge/-Testcafe-orange?style=flat-square&logo=Testcafe)
 ![Jira](https://img.shields.io/badge/-Jira-ff69b4?style=flat-square&logo=Jira)
 ![Git](https://img.shields.io/badge/-Git-yellow?style=flat-square&logo=Git)
