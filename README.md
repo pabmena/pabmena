@@ -39,6 +39,7 @@
 ![PowerBI](https://img.shields.io/badge/-PowerBI-purple?style=flat-square&logo=PowerBI)
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-important?style=flat-square&logo=AndroidStudio)
 ![Appium](https://img.shields.io/badge/-Appium-green?style=flat-square&logo=Appium)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
 
 ### Portfolio: https://www.youtube.com/watch?v=wEUNxobvtII
 ### Project:   https://youtu.be/Z3fCAsXAyDQ
