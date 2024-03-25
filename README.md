@@ -24,15 +24,15 @@
 ![Git](https://img.shields.io/badge/-Git-yellow?style=flat-square&logo=Git)
 ![Selenium](https://img.shields.io/badge/-Selenium-green?style=flat-square&logo=Selenium)
 ![Slack](https://img.shields.io/badge/-Slack-yellow?style=flat-square&logo=Slack)
-
 ![Lucidchart](https://img.shields.io/badge/-Lucidchart-inactive?style=flat-square&logo=Lucidchart)
+
 ![Miro](https://img.shields.io/badge/-Miro-yellowgreen?style=flat-square&logo=Miro)
 ![Figma](https://img.shields.io/badge/-Figma-blueviolet?style=flat-square&logo=Figma)
 ![Notion](https://img.shields.io/badge/-Notion-important?style=flat-square&logo=Notion)
 ![Gherkin](https://img.shields.io/badge/-Gherkin-black?style=flat-square&logo=Gherkin)
-
 ![Behave](https://img.shields.io/badge/-Behave-green?style=flat-square&logo=Behave)
 ![Python](https://img.shields.io/badge/-Python-lightblue?style=flat-square&logo=Python)
+
 ![GoogleSheets](https://img.shields.io/badge/-GoogleSheets-black?style=flat-square&logo=GoogleSheets)
 ![Numpy](https://img.shields.io/badge/-Numpy-yellow?style=flat-square&logo=Numpy)
 
