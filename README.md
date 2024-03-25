@@ -37,6 +37,8 @@
 ![Numpy](https://img.shields.io/badge/-Numpy-yellow?style=flat-square&logo=Numpy)
 ![SQLServer](https://img.shields.io/badge/-SQLServer-1572B6?style=flat-square&logo=SQLServer)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-purple?style=flat-square&logo=PowerBI)
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-important?style=flat-square&logo=AndroidStudio)
+![Appium](https://img.shields.io/badge/-Appium-green?style=flat-square&logo=Appium)
 
 ### Portfolio: https://www.youtube.com/watch?v=wEUNxobvtII
 ### Project:   https://youtu.be/Z3fCAsXAyDQ
