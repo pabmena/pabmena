@@ -35,7 +35,7 @@
 ![GoogleSheets](https://img.shields.io/badge/-GoogleSheets-black?style=flat-square&logo=GoogleSheets)
 
 ![Numpy](https://img.shields.io/badge/-Numpy-yellow?style=flat-square&logo=Numpy)
-![SQLServer](https://img.shields.io/badge/-SQLServer-blueviolet?style=flat-square&logo=SQLServer)
+![SQLServer](https://img.shields.io/badge/-SQLServer-1572B6?style=flat-square&logo=SQLServer)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-purple?style=flat-square&logo=PowerBI)
 
 ### Portfolio: https://www.youtube.com/watch?v=wEUNxobvtII
