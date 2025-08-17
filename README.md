@@ -1,4 +1,4 @@
-### 👋 Hello World! I'm Engineer specialized in Full Stack Web Developer & Business Management (MBA).
+### 👋 Hello World! QA Engineer | MBA | AI for Business.
 ### 👨‍💻 Languages and Tools
 <br />
 
