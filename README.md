@@ -1,9 +1,11 @@
 ### 👋 ¡Hola mundo! QA Automation Engineer | MBA | IA para negocios.
-### 👨‍💻 Lenguajes y herramientas
 ### 🎓 Especialización en Inteligencia Artificial - UBA
-### 📁 Portafolio Henry: https://www.youtube.com/watch?v=wEUNxobvtII
-### 🚀 Proyecto Henry: https://youtu.be/Z3fCAsXAyDQ
 ### 🌐 Landing MAP: https://www.mapia.lat
+
+### 📁 Portafolio Academia Henry: https://www.youtube.com/watch?v=wEUNxobvtII
+### 🚀 Proyecto Academia Henry: https://youtu.be/Z3fCAsXAyDQ
+
+### 👨‍💻 Lenguajes y herramientas
 
 <br />
 
