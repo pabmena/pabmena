@@ -1,9 +1,9 @@
-### 👋 ¡Hola mundo! Ingeniero de control de calidad | MBA | IA para negocios.
+### 👋 ¡Hola mundo! QA Automation Engineer | MBA | IA para negocios.
 ### 👨‍💻 Lenguajes y herramientas
-### 🎓 Especialización en Inteligencia Artificial - UBA | QA | AI Applied to Business
-### 📁 Portafolio: https://www.youtube.com/watch?v=wEUNxobvtII
-### 🚀 Proyecto: https://youtu.be/Z3fCAsXAyDQ
-### 🌐 Landing: https://www.kyc-ia-lab.lat
+### 🎓 Especialización en Inteligencia Artificial - UBA
+### 📁 Portafolio Henry: https://www.youtube.com/watch?v=wEUNxobvtII
+### 🚀 Proyecto Henry: https://youtu.be/Z3fCAsXAyDQ
+### 🌐 Landing MAP: https://www.mapia.lat
 
 <br />
 
@@ -65,15 +65,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![GoogleSheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
-
-### 🧠 Enfoque actual
-- QA Engineering & Test Automation
-- Fintech QA / APIs / Performance / Mobile
-- Machine Learning & Deep Learning
-- Computer Vision & NLP
-- AI Agents / RAG / AI Product Design
-- Observability, Metrics & Explainability
-- KYC / Onboarding / Identity Verification
 
 <a href="https://twitter.com/">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
