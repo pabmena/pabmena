@@ -5,7 +5,7 @@
 ### 📁 Portafolio Academia Henry: https://www.youtube.com/watch?v=wEUNxobvtII
 ### 🚀 Proyecto Academia Henry: https://youtu.be/Z3fCAsXAyDQ
 
-### 👨‍💻 Lenguajes y herramientas
+### 👨‍💻 Lenguajes y herramientas:
 
 <br />
 
